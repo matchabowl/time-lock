@@ -1,4 +1,3 @@
-naodiuwnauiodnai
-dfwafavmanaodiuwnauiodnai
-aswjwanda
-v niazznijnboz
+x = 120938
+t = 200000000
+m = 11231
